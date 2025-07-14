@@ -44,7 +44,7 @@ npm start
 
 📁 Structure
 ~~~bash
-.
+ 
 ├── bot.js                # Basic logic of the bot
 ├── config.js             # Configuration (uses .env)
 ├── .env.example          # Configuration template
@@ -53,4 +53,5 @@ npm start
 └── README.md
 ~~~
 
-
+## License
+This project is licensed under the MIT License.  
