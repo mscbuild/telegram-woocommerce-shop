@@ -1,0 +1,17 @@
+{
+  "name": "telegram-woocommerce-shop",
+  "version": "1.0.0",
+  "description": "Telegram store connected to WooCommerce",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "woocommerce-rest-api": "^1.6.0"
+  },
+  "author": "Your name",
+  "license": "MIT"
+}
