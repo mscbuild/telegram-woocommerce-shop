@@ -1,4 +1,4 @@
-# 🤖 Telegram store for WooCommerce
+# 🛍 Telegram store for WooCommerce
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/telegram-woocommerce-shop) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
@@ -62,5 +62,21 @@ npm start
 └── README.md
 ~~~
 
+# 🧩 What the bot will be able to do
+
+✅ Get a list of products from WooCommerce
+✅ Show products in Telegram with photos and buttons
+✅ When clicking "Buy" - place an order via WooCommerce API
+✅ Send you a notification in Telegram about a new order
+
+#❓ That the user can:
+
+- 📦 Add multiple items
+
+- 🧺 View cart
+
+- ✅ Place one order with multiple items
+
 ## License
+
 This project is licensed under the MIT License.  
