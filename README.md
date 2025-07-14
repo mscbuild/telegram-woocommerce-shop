@@ -1,4 +1,13 @@
 # 🤖 Telegram store for WooCommerce
+ ![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/telegram-woocommerce-shop) 
+ ![](https://img.shields.io/badge/PRs-Welcome-green)
+ ![](https://img.shields.io/github/languages/code-size/mscbuild/telegram-woocommerce-shop)
+![](https://img.shields.io/badge/code%20style-node.js-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+
 
 This project is a Telegram bot that connects to WooCommerce via REST API, displays products, allows you to collect a cart and place orders directly in Telegram.
 
