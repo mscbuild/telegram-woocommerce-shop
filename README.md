@@ -69,7 +69,7 @@ npm start
 ✅ When clicking "Buy" - place an order via WooCommerce API
 ✅ Send you a notification in Telegram about a new order
 
-#❓ That the user can:
+# ❓ That the user can:
 
 - 📦 Add multiple items
 
