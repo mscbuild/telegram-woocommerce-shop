@@ -19,7 +19,7 @@ This project is a Telegram bot that connects to WooCommerce via REST API, displa
 ```bash
 git clone https://github.com/yourusername/telegram-woocommerce-shop.git
 cd telegram-woocommerce-shop
- 
+~~~
 
 ### 2.Install dependencies
 
