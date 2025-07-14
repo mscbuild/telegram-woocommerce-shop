@@ -62,7 +62,7 @@ npm start
 └── README.md
 ~~~
 
-# 🧩 What the bot will be able to do
+# 🧩 What the bot will be able to do?
 
 - ✅ Get a list of products from WooCommerce
 - ✅ Show products in Telegram with photos and buttons
